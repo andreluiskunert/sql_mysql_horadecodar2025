@@ -8,10 +8,10 @@
  -- VALUES ("Jean", "Cardoso", "jeancardoso02@gmail.com", 25, "Arquiteto", "Rua do ArePorto Pato branco" );
  -- VALUES ("Lucas", "Camargo", "lucacarmago01@gmail.com", 20, "Eletrecista", "Rua do Planalto nª02 Pato branco" );
  -- VALUES ("Luis Carlos", "Ramos", "luiscarlos03@gmail.com", 42, "Arquiteto", "Rua do Xingu Pato branco" );
-  VALUES ("André Luis ", "Kunert", "alktecno@gmail.com", 42, "Desenvolvedor Full Stack Java e PHP", "Rua do D. 1º Pedro  Pato branco" );
+  VALUES ("André Luis ", "Kunert", "alktecno@gmail.com", 42, "Desenvolvedor Full Stack Java e PHP", "Rua do D. 1º Pedro  Pato branco" ); 
   SELECT * FROM cliente;*/
 /*  INSERT INTO produtos(nome, sku, informacoes) VALUES ("sapatos","SP01", "Serve para proteger os pés");
     INSERT INTO produtos(nome, sku, informacoes) VALUES ("Terno","TR01", "Serve para ir a lugar com estilos ");
       INSERT INTO produtos(nome, sku, informacoes) VALUES ("Gravata","GT01", "Serve  para usar com o terno e o sapato");
-      */
-      SELECT * FROM produtos;
+      
+     SELECT * FROM produtos; */
